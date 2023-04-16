@@ -1,3 +1,26 @@
+# WorkBench
+
+## useful commands: 
+tree -L 2 -I 'node_modules'
+tree -I 'node_modules'
+
+## additional objectives: (outside of tutorial as far as I know)
+- linter config
+- formatter config, 
+- automatically driven ui library driven by index files
+    - show all / manage colors
+    - manage icons
+    - manage images
+- automatically, test all get urls
+- logging tools
+
+A way to manage colors.
+A way to manage icons.
+A way to manage images.
+A way to manage all application "get" urls to quickly create render tests.
+
+<hr/>
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
